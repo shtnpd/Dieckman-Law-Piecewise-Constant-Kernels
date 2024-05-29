@@ -1,1 +1,1 @@
-# Dickman-Low-Piecewise-Constant-Kernels
+# Dieckman-Law-Piecewise-Constant-Kernels
